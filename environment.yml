@@ -5,11 +5,9 @@ channels:
 dependencies:
   - ipycanvas
   - ipywidgets
-  - ipykernel
   - matplotlib
   - ipython
   - numpy
   - scipy
   - ipympl
   - ipytone
-  - librosa
